@@ -5,3 +5,7 @@ This is both a test to use github to enter the community and sharing this tiny p
 It miss some functions at the moment and not sure good specificity of the others.
 
 I used Jint to parse the JS, hoping there is not any License probleme here.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Hellfar/pacparser/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
